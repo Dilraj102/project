@@ -76,7 +76,7 @@ Spotify API or YouTube Data API for fetching music
 
 ### Project Documentation
 Project Title:
-EmoTune – Music Recommendation by Facial Emotion Detection
+MOODTUNES – Music Recommendation by Facial Emotion Detection
 
 
 ---
